@@ -1,1 +1,1 @@
-## A minimalist to do made for practice.
+# A minimalist to do made for practice.
